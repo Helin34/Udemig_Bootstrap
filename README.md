@@ -2,6 +2,6 @@
 
 Html, Css ve Bootstrap kullanılarak hazırlanmıştır.
 
-<h2>Ekran Gifi</h2>
+<h2>Ekran Görüntüsü</h2>
 
 ![](Udemig-bootstrap.gif)
